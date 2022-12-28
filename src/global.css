@@ -1,0 +1,15 @@
+body{
+    background-color: skyblue !important;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+  
+}
+
+.canvas{
+    background-color: black;
+    height: 100vh !important;
+    width: 100vw !important;
+}
